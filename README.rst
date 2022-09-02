@@ -66,11 +66,8 @@ async/concurrency. As an aside, :bash:`fastapi` was the inspiration for the name
 
 Getting Involved
 ================
-If you enjoy this project, feel free to become a patron by sending
-ETH or ERC20 tokens to:
-`0x9200574cc23c6a1398d6d7bd06c5ae36b738604a`
 
-But, better yet - contribute to the project.
+PR your changes :).
 
 Developer Guide
 ---------------
